@@ -48,6 +48,29 @@ using System.Diagnostics;
 //    public static void Main()
 //    {
 //        Func<int, int, int> sum = (a, b) => a + b;
-//        Console.WriteLine(1 + 2);
+//        Console.WriteLine(sum(1,2) == 3);
 //    }
 //}
+
+
+
+//using System;
+//using System.Diagnostics;
+
+//public class ScalingRandoms
+//{
+//    static int Random(int a, int b)
+//    {
+//        Random rnd = new Random();
+//        Double rand1 = rnd.NextDouble();
+//        return 0;
+//    }
+//    public static void Main()
+//    {
+//        Console.WriteLine(Random(1, 2) <= 2 && Random(1, 2) >= 1);
+//        Console.WriteLine(Random(-11, 22) <= 22 && Random(-11, 22) >= -11);
+//    }
+//}
+
+
+
