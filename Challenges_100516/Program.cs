@@ -52,7 +52,7 @@ using System.Diagnostics;
 //    }
 //}
 
-
+    //**** Scaling Randoms is incorrect!!! Fix in the morning!!!!
 
 //using System;
 //using System.Diagnostics;
@@ -74,3 +74,36 @@ using System.Diagnostics;
 
 
 
+//using System;
+//using System.Diagnostics;
+
+//public class Replace1
+//{
+//    static string tweeter(string text)
+//    {
+//        text.Replace("naps", "maps");
+//        return "";
+//    }
+//    public static void Main()
+//    {
+//        Console.WriteLine(tweeter("I really like naps") == "I really like maps");
+//        Console.WriteLine(tweeter("naps maps naps maps") == "maps maps maps maps");
+//    }
+//}
+
+using System;
+using System.Diagnostics;
+
+public class Program
+{
+    static string tweeter(string text)
+    {
+        string correcttweeter = text.Replace("naps", "maps");
+        return "";
+    }
+    public static void Main()
+    {
+        Console.WriteLine(tweeter("I really like naps"));
+        Console.ReadLine();
+    }
+}
