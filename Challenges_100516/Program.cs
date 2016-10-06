@@ -52,7 +52,6 @@ using System.Diagnostics;
 //    }
 //}
 
-//**** Scaling Randoms is incorrect!!! Fix in the morning!!!!
 
 //using System;
 //using System.Diagnostics;
