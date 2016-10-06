@@ -1,1 +1,6 @@
 C:\Users\shadijam\Code\Challenges_100516\Challenges_100516\bin\Debug\Challenges_100516.exe.config
+C:\Users\shadijam\Code\Challenges_100516\Challenges_100516\bin\Debug\Challenges_100516.exe
+C:\Users\shadijam\Code\Challenges_100516\Challenges_100516\bin\Debug\Challenges_100516.pdb
+C:\Users\shadijam\Code\Challenges_100516\Challenges_100516\obj\Debug\Challenges_100516.csprojResolveAssemblyReference.cache
+C:\Users\shadijam\Code\Challenges_100516\Challenges_100516\obj\Debug\Challenges_100516.exe
+C:\Users\shadijam\Code\Challenges_100516\Challenges_100516\obj\Debug\Challenges_100516.pdb
