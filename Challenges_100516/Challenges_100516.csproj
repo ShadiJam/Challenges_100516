@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Functions1.cs" />
+    <Compile Include="Functions2.cs" />
+    <Compile Include="ScalingRandoms.cs" />
+    <Compile Include="Tweeter1.cs" />
+    <Compile Include="Tweeter2.cs" />
+    <Compile Include="VectorMagnitute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
